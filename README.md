@@ -8,7 +8,7 @@ My name is Nikki and I am currently a high school student aspiring to pursue CS!
 
 
 - 🔭 I am currently training in preperation for my apprenticeship as a Junior Coder for JPMC
-- 🌱 I would love to learn more coding languages like Javascript, HTML, and CSS
+- 🌱 I would love to learn more coding languages like Javascript, HTML, and C++
 - 🤔 I also have interests in the finance and banking industries as I love working with numbers
 - 🫥 A fun fact about me is that I love cats despite being allergic, I find them so cute and silly!
 
